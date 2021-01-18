@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello you 👋
 
 <!--
 **nathanaelhoun/nathanaelhoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You found my Github profile! :octocat:
+
+Here, you can find some of my work done for university or to contribute to open-source projects.
+
+You can also find my on:
+  - My Gitlab profile (with personal projects and more university work): [gitlab.com/nathanaelhoun](https://gitlab.com/nathanaelhoun)
+  - My personal webpage : [nathanaelhoun.fr](https://www.nathanaelhoun.fr)
