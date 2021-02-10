@@ -22,5 +22,3 @@ Here, you can find some of my work done for university or to contribute to open-
 You can also find my on:
   - My Gitlab profile (with personal projects and more university work): [gitlab.com/nathanaelhoun](https://gitlab.com/nathanaelhoun)
   - My personal webpage : [www.nathanaelhoun.fr](https://www.nathanaelhoun.fr)
-
-**I'm currently searching a 3-months internship in web/software development or system administration (April 6th to June 25th). Feel free to reach my out at contact@nathanaelhoun.fr :smile:**
